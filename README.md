@@ -1,2 +1,0 @@
-# bakti
-repository saya
